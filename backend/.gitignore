@@ -1,0 +1,2 @@
+echo "app.py" >> .gitignore
+# echo backend/venv_py311/ >> .gitignore
